@@ -78,8 +78,8 @@ App({
   globalData: {
     userInfo: null,
     userOpenId:null,
-    yesApiHost: "您的接口域名", // TODO: 配置成你所在的接口域名记得加https
-    yesApiAppKey: "您的APP_KEY", // TODO：改为你的APP_KEY 在http://open.yesapi.cn/?r=App/Mine寻找
-    yesApiAppSecret: "您的APP_SECRET" // TODO：改为你的APP_SECRET
+    yesApiHost: "http://hn216.api.yesapi.cn/", // TODO: 配置成你所在的接口域名记得加https
+    yesApiAppKey: "731B85BC7F350326BC27BA1652577EBD", // TODO：改为你的APP_KEY 在http://open.yesapi.cn/?r=App/Mine寻找
+    yesApiAppSecret: "RPXQzEactcwDgUe2D2L9keK30p6800LkkgptCFoROx1mw3UYBMAj2P5jbqMgVnhHxf" // TODO：改为你的APP_SECRET
   }
 });
